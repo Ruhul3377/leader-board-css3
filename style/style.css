@@ -15,7 +15,7 @@
 
 .logo-heading{
     display: flex;
-    padding-right: 67%;
+    padding-right: 60%;
     align-items: center;
 }
 .heading{
@@ -39,7 +39,6 @@
     text-decoration: none;
     padding-left: 14px;
 }
-
 
 body{ 
 font-family: 'Poppins', sans-serif;
