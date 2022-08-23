@@ -3,8 +3,44 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
 
+.navigation{
+    overflow: hidden;
+    background-color: #562EFF;
+}
+.logo-img{
+    width: 40px;
+    height: 45px;
+    padding-left: 8px;
+}
 
-/* common styles or utilities */
+.logo-heading{
+    display: flex;
+    padding-right: 67%;
+    align-items: center;
+}
+.heading{
+    padding-left: 15px;
+    color: #FFFFFF;
+ 
+}
+.nav-menu {
+    align-items: center;
+    padding-inline-end: 30px;
+    width: 870px;
+    display: flex;
+    padding-left: 21%;
+    color: #FFFFFF; 
+    
+}
+
+.nav-menu li{
+    
+    list-style: none;
+    text-decoration: none;
+    padding-left: 14px;
+}
+
+
 body{ 
 font-family: 'Poppins', sans-serif;
 background-color:#E5E5E5;
